@@ -1,0 +1,31 @@
+_repo: An-Account-of-the-Campaign-in-the-West-Indies-in-the-Year-1794--13-Under-the-Command-of-their__38178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willyams, Cooper
+    birthdate: 1762
+    deathdate: 1816
+    gutenberg_agent_id: '39297'
+    url: http://www.gutenberg.org/2009/agents/39297
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1601'
+- !lcsh 'English West Indian Expedition, 1793-1794'
+- !lcsh 'West Indies, British--History'
+- !lcsh 'West Indies, French -- History'
+title: "An Account of the Campaign in the West Indies, in the Year 1794\r\nUnder the\
+  \ Command of their Excellencies Lieutenant General Sir Charles Grey, K.B., and Vice\
+  \ Admiral Sir John Jervis, K.B."
+url: http://www.gutenberg.org/ebooks/38178
